@@ -10,6 +10,8 @@ YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and 
 
 ## Contents
 
+# 改变从这里开始
+
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
