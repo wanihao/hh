@@ -60,6 +60,9 @@ Links can also be relative. [Like this one](/contact.html).
 {% endhighlight %}
 
 ## Lists
+
+$$  \frac{v^2} {2} + {g}{z} + \frac{p} {ρ} = constant $$
+
 Unordered:
 - this
 - is
