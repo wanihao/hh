@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-yamt"
+  spec.name          = "wanihao"
   spec.version       = "1.0.6"
   spec.authors       = ["PandaSekh"]
-  spec.email         = ["alessiofranceschi2@gmail.com"]
+  spec.email         = ["ale2@gil.com"]
 
-  spec.summary       = "Yet Another Minimal Theme for Jekyll"
-  spec.homepage      = "https://github.com/PandaSekh/Jekyll-YAMT"
+  spec.summary       = "保持 积极的，时代的，超前的，进步的思样"
+  spec.homepage      = "https://wanihao.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
