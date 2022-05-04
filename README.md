@@ -1,5 +1,5 @@
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
-![](https://badgen.net/rubygems/dt/jekyll-yamt)
+# [YA](https://yamt.netlify.app/)
+![](https://bad.net/rubygems/dt/jekyll-yamt)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PandaSekh/Jekyll-YAMT/issues)
 ![GitHub forks](https://img.shields.io/github/forks/PandaSekh/Jekyll-YAMT?label=Fork%20it%21&style=social)
 ## [Live Demo](https://yamt.netlify.app/)
