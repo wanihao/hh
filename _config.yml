@@ -6,7 +6,7 @@ baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.
 author:
   name: "wanihao"
   email: "alessiofranceschi2@il.com"
-  url: "https://alessiofe"
+  url: "wanihao.github.io/"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
@@ -18,8 +18,8 @@ paginate_path: "/page:num/"
 
 #SEO
 twitter:
-  username: pandasekh
-  card: summary
+  username: panda
+  card: sum
 facebook:
   app_id: # Facebook app ID for Facebook insights
   publisher: # Facebook page URL or ID of the publishing entity
